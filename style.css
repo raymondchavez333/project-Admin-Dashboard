@@ -53,7 +53,7 @@ html {
     display: grid;
     grid-template-rows: repeat(6, 100px);
 }
-.midFirst {
+.mid > div{
     display: grid;
     grid-template-columns: 50px 100px  ;
 }   

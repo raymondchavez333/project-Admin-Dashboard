@@ -18,7 +18,7 @@ html {
 }
 .dashboard {
     display: grid;
-    grid-template-columns: 1fr 3fr;
+    grid-template-columns: 320px 1150px;
     grid-template-rows: minmax(200px, 1fr) minmax(600px, 3fr);
 }
 
@@ -46,7 +46,7 @@ html {
 
 .top {
     display: grid;
-    grid-template-columns: 50px 200px;
+    grid-template-columns: 50px 100px;
 }
 
 .mid {
@@ -55,7 +55,7 @@ html {
 }
 .midFirst {
     display: grid;
-    grid-template-columns: 50px 200px  ;
+    grid-template-columns: 50px 100px  ;
 }   
 
 svg {

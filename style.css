@@ -85,3 +85,14 @@ svg {
 .sidebar svg {
     fill: white;
 }
+
+input {
+    border-radius: 10px;
+    width: 500px;
+}
+
+.header1 .left {
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-columns: 1fr 5fr;
+}

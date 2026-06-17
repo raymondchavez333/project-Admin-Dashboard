@@ -101,3 +101,8 @@ input {
     display: grid;
     grid-auto-flow: column;
 }
+
+.header2 {
+    display: grid;
+    grid-template-columns: 6fr 4fr;
+}

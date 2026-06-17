@@ -79,7 +79,7 @@ svg {
 
 .header1{
     display: grid;
-    grid-template-columns: 8fr 2fr;
+    grid-template-columns: 7fr 3fr;
 }
 
 .sidebar svg {

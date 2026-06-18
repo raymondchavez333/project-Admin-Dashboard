@@ -144,6 +144,8 @@ input {
 .card {
     width: 350px;
     height: 200px;
+    display: grid;
+    grid-template-rows: 1fr 50px;
 }
 
 .cards {

@@ -130,3 +130,8 @@ input {
     display: grid;
     grid-template-columns: 7fr 3fr;
 }
+
+.main .left {
+    display: grid;
+    grid-template-rows: 80px 1fr;
+}

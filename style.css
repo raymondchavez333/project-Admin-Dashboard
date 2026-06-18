@@ -135,3 +135,8 @@ input {
     display: grid;
     grid-template-rows: 80px 1fr;
 }
+
+.main .right {
+    display: grid;
+    grid-template-rows: 80px 1fr;
+}

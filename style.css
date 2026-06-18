@@ -125,3 +125,8 @@ input {
   background-color: rgb(0, 183, 255);
   border-radius: 18px;
 }
+
+.main {
+    display: grid;
+    grid-template-columns: 7fr 3fr;
+}

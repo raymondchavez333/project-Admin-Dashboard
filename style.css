@@ -153,3 +153,8 @@ input {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: repeat(3, 1fr);
 }
+
+.info {
+    display: grid;
+    grid-template-rows: 1fr 80px 1fr;
+}

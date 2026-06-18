@@ -140,3 +140,14 @@ input {
     display: grid;
     grid-template-rows: 80px 1fr;
 }
+
+.card {
+    width: 350px;
+    height: 200px;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(3, 1fr);
+}

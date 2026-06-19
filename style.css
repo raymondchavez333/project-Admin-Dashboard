@@ -36,6 +36,7 @@ html {
     grid-row: 1/ 3;
     display: grid;
     grid-template-rows: 100px 600px 300px;
+    gap: 70px;
 }
 
 .main {

@@ -189,3 +189,7 @@ input {
 .mid > div > div {
     font-weight: bold;
 }
+
+.bot > div > div {
+    font-weight: bold;
+}

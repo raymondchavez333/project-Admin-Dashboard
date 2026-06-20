@@ -37,6 +37,7 @@ html {
     display: grid;
     grid-template-rows: 100px 600px 300px;
     gap: 70px;
+    padding-left: 10px;
 }
 
 .main {

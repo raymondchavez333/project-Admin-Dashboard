@@ -216,3 +216,13 @@ input {
 .header1 .left svg {
     justify-self: center;
 }
+
+.header2 .right {
+    display: grid;
+    grid-auto-flow: column;
+    justify-content: center;
+    gap: 20px;
+}
+.header2 > * {
+    align-items: center;
+}

@@ -112,7 +112,9 @@ input {
 .header1 .right {
     display: grid;
     grid-auto-flow: column;
+    grid-template-columns: 50px 50px 150px;
     align-items: center;
+    gap: 25px;
 }
 
 .header2 {

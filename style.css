@@ -195,7 +195,7 @@ input {
     font-weight: bold;
 }
 
-.mid svg {
+.mid svg , .bot svg{
     width: 25px;
     height: auto;
     justify-self: end;

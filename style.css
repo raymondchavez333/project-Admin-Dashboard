@@ -99,6 +99,7 @@ input {
     width: 500px;
     background-color: #e2e8f0;
     border: none;
+    height: 35px;
 }
 
 .header1 .left {

@@ -59,7 +59,7 @@ html {
 
 .mid {
     display: grid;
-    grid-template-rows: repeat(6, 100px);
+    grid-template-rows: repeat(6, 50px);
 }
 .mid > div{
     display: grid;
@@ -75,7 +75,7 @@ svg {
 
 .bot {
     display: grid;
-    grid-template-rows: repeat(6, 100px);
+    grid-template-rows: repeat(3, 50px);
 }
 
 .bot > div {

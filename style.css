@@ -103,12 +103,13 @@ input {
     display: grid;
     grid-auto-flow: column;
     grid-template-columns: 1fr 5fr;
-    align-items: center;
+    align-items: center ;
 }
 
 .header1 .right {
     display: grid;
     grid-auto-flow: column;
+    align-items: center;
 }
 
 .header2 {

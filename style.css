@@ -183,6 +183,7 @@ input {
 .info1 {
     display: grid;
     grid-template-rows: repeat(3, 1fr);
+    background-color: white;
 }
 
 .info3 {

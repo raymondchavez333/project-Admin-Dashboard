@@ -126,6 +126,8 @@ input {
     display: grid;
     grid-auto-flow: column;
     grid-template-columns: 80px 400px;
+    padding-left: 40px;
+    gap: 15px;
 }
 
 .buttons {

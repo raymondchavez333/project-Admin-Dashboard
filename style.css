@@ -164,6 +164,7 @@ input {
     height: 200px;
     display: grid;
     grid-template-rows: 1fr 50px;
+    background-color: white;
 }
 
 .Cards {

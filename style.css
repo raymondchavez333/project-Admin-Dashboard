@@ -271,3 +271,7 @@ input {
     width: 25px;
     height: auto;
 }
+
+.extras {
+    justify-self: end;
+}

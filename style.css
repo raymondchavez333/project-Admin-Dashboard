@@ -274,4 +274,7 @@ input {
 
 .extras {
     justify-self: end;
+    display: grid;
+    grid-auto-flow: column;
+    gap: 20px;
 }

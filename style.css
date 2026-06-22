@@ -19,7 +19,7 @@ html {
 .dashboard {
     display: grid;
     grid-template-columns: 320px 1150px;
-    grid-template-rows: minmax(200px) minmax(600px);
+    grid-template-rows: 200px 600px;
 }
 
 .header {

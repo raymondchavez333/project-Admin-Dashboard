@@ -278,3 +278,7 @@ input {
     grid-auto-flow: column;
     gap: 20px;
 }
+
+.paragraph {
+    padding-top: 20px;
+}

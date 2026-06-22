@@ -120,6 +120,7 @@ input {
 .header2 {
     display: grid;
     grid-template-columns: 6fr 4fr;
+    padding-bottom: 10px;
 }
 
 .header2 .left {

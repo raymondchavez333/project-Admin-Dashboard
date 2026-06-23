@@ -316,3 +316,13 @@ input {
     font-size: 18px;
     padding-bottom: 5px;
 }
+
+.info1 .title {
+    font-size: 15px;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.info1 .description {
+    font-size: 13px;
+}

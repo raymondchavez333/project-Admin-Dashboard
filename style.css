@@ -325,4 +325,13 @@ input {
 
 .info1 .description {
     font-size: 13px;
+    color: rgb(86, 94, 102);
+}
+
+.card .description {
+    color: rgb(86, 94, 102);
+}
+
+.addition {
+    color: rgb(86, 94, 102);
 }

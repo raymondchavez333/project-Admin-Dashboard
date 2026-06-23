@@ -163,7 +163,7 @@ input {
 }
 
 .card {
-    width: 350px;
+    width: 380px;
     height: 200px;
     display: grid;
     grid-template-columns: 5px 10px 1fr 15px;

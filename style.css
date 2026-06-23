@@ -169,6 +169,7 @@ input {
     grid-template-columns: 5px 10px 1fr 15px;
     grid-template-rows: 1fr 25px 15px;
     background-color: white;
+    border-radius: 5px 5px 5px 5px;
 }
 
 .Cards {
@@ -292,6 +293,7 @@ input {
     background-color: yellow;
     grid-column: 1/2;
     grid-row: 1/4;
+    border-radius: 10px 0px 0px 10px;
 }
 
 .clear {

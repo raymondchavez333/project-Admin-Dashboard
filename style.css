@@ -181,7 +181,7 @@ input {
 
 .info {
     display: grid;
-    grid-template-rows: 1fr 80px 1fr;
+    grid-template-rows: 324px 80px 1fr;
 }
 
 .info1 {

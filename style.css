@@ -47,7 +47,7 @@ html {
 
 .dashboard div {
     /* background-color: orange; */
-    /* border: 1px solid black; */
+    border: 1px solid black;
 }
 
 .top {
@@ -175,7 +175,7 @@ input {
 .Cards {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 230px);
     padding-left: 20px;
 }
 

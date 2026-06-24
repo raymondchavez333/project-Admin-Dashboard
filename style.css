@@ -262,7 +262,7 @@ input {
     background-color: #e2e8f0;
 }
 
-.yourProjects, .announcements {
+.yourProjects, .announcements , .info2 {
     font-size: 20px;
     font-weight: bold;
     display: grid;

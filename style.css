@@ -189,6 +189,9 @@ input {
     grid-template-rows: repeat(3, 1fr);
     background-color: white;
     width: 320px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 18px;
 }
 
 .info3 {

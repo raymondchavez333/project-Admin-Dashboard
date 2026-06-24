@@ -212,7 +212,6 @@ input {
 .info3 > div{
     display: grid;
     grid-template-columns: 80px 1fr;
-    align-self: center;
 }
 
 .Dashboard {
@@ -356,4 +355,8 @@ input {
 
 .item2, .item3 {
     padding-top: 10px;
+}
+
+.details {
+    align-self: center;
 }

@@ -200,6 +200,7 @@ input {
     grid-template-rows: repeat(4, 1fr);
     background-color: white;
     width: 320px;
+    height: 286px;
     padding-top: 20px;
     padding-left: 20px;
     padding-bottom: 20px;

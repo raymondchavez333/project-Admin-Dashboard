@@ -205,6 +205,7 @@ input {
 .info3 > div{
     display: grid;
     grid-template-columns: 80px 1fr;
+    align-self: center;
 }
 
 .Dashboard {
